@@ -20,10 +20,10 @@ int main(int argc, char const *argv[])
             }
         }
     }
-    printf("Sorted array:\n");
+    printf("Sortedd array:\n");
     for (int i = 0; i <= 9; i++)
     {
-        printf("%d ", a[i]);
+        printf("%d  ", a[i]);
     }
 
     return 0;
